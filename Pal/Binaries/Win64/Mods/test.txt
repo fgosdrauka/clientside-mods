@@ -1,0 +1,17 @@
+﻿CheatManagerEnablerMod : 1
+ActorDumperMod : 0
+ConsoleCommandsMod : 1
+ConsoleEnablerMod : 1
+SplitScreenMod : 0
+LineTraceMod : 0
+BPModLoaderMod : 1
+BPML_GenericFunctions : 1
+jsbLuaProfilerMod : 0
+LessRestrictiveBuilding: 1
+VisiblePalCaptureCounter : 1
+NoMoreHoldButtonX: 1
+BPModLoaderMod: 1
+
+
+; Built-in keybinds, do not move up!
+Keybinds : 1
